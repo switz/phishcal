@@ -1,0 +1,16 @@
+{
+    "private": true,
+    "name": "phishcal",
+    "version": "1.0.0",
+    "description": "Phish.net iCal",
+    "main": "index.js",
+    "author": "Daniel Saewitz",
+    "license": "MIT",
+    "dependencies": {
+        "ical.js": "^1.4.0"
+    },
+    "devDependencies": {
+        "@switz/eslint-config": "^7.2.0",
+        "eslint": "^8.18.0"
+    }
+}

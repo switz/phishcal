@@ -4,3 +4,4 @@ dist
 worker
 *.ics
 wrangler.toml
+.wrangler/

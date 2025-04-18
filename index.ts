@@ -50,6 +50,5 @@ async function gatherResponse(data: Response) {
   });
 
   // Return the calendar as a string
-  console.log(calendar.toString());
   return calendar.toString();
 }
